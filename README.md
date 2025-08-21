@@ -20,5 +20,3 @@ A simple weather app built with **HTML, CSS, and JavaScript** that uses the **Op
 
 ## 📷 Preview
 <img width="1918" height="915" alt="Screenshot 2025-08-22 012514" src="https://github.com/user-attachments/assets/b1e9d993-d6c7-46b6-8544-d62aed4a4c9b" />
-##Link
-https://piyush4356.github.io/weather-app/
